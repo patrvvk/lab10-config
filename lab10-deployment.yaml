@@ -19,4 +19,4 @@ spec:
     spec:
       containers:
         - name: lab10-app
-          image: patrvvk/lab10-app:1.0.1
+          image: patrvvk/lab10-app:1.0.2
